@@ -1,4 +1,4 @@
-###  Advanced-Centrifugal-Trajectory-Launching-System-for-NSLV
+# Advanced-Centrifugal-Trajectory-Launching-System-for-NSLV
 
 
 ## 📌 Overview
@@ -20,7 +20,7 @@
 
 ## 🛠️ Hardware & Software Used
   
-  # 🔧 Hardware
+  ### 🔧 Hardware
    1. 555 Motor (12V, 5A)
      2. Motor relay & controller (L298N)
      3. High-speed centrifugal launcher
@@ -28,7 +28,7 @@
      5. Arduino UNO for control automation
      6. Potentiometer for variable speed control
      7. DC Power Supply (12V, 5A)
-  # 💻 Software
+  ### 💻 Software
      1. Arduino IDE for coding and microcontroller programming.
 
 
