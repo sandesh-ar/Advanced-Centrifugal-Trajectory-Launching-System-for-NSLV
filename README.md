@@ -34,9 +34,20 @@
      6. Potentiometer for variable speed control
 
      7. DC Power Supply (12V, 5A)
-     
+
   ### 💻 Software
 
      1. Arduino IDE for coding and microcontroller programming.
+
+
+
+## 📈 Results & Findings
+    The rocket achieved a launch velocity of ~18 km/hr.
+
+    The rocket followed an inclined trajectory covering a distance of 1.5 meters.
+
+    Energy-efficient launch consuming only 0.33 Wh per launch.
+    
+    The system demonstrated high-precision launch control with optimized exit chamber alignment.
 
 
