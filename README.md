@@ -19,15 +19,16 @@
  4. Performance evaluation is conducted by analyzing speed, energy consumption, and launch stability
 
 # 🛠️ Hardware & Software Used
-  🔧 Hardware
+  
+  # 🔧 Hardware
    1. 555 Motor (12V, 5A)
-   2. Motor relay & controller (L298N)
-   3. High-speed centrifugal launcher
-   4. Solid-fuel rocket boosters
-   5. Arduino UNO for control automation
-   6. Potentiometer for variable speed control
-   7. DC Power Supply (12V, 5A)
-  💻 Software
+     2. Motor relay & controller (L298N)
+     3. High-speed centrifugal launcher
+     4. Solid-fuel rocket boosters
+     5. Arduino UNO for control automation
+     6. Potentiometer for variable speed control
+     7. DC Power Supply (12V, 5A)
+  # 💻 Software
    1. Arduino IDE for coding and microcontroller programming.
 
 
