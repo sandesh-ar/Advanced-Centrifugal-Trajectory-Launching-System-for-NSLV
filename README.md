@@ -86,3 +86,6 @@ This repository contains the project **"Advanced Centrifugal Trajectory Launchin
 ## 🏆 Awards & Recognition  
 🏅 **Winners** of **First-Year Mini-Project Exhibition 2023** (Dept. of ECE, DSCE)  
 🥈 **Runners-up** in **Scintillating Ideas Project Model Exhibition 2023** (Dept. of Applied Physics, DSCE)  
+
+
+![image](https://github.com/sandesh-ar/Advanced-Centrifugal-Trajectory-Launching-System-for-NSLV/blob/main/poster.png?raw=true)
