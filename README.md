@@ -1,5 +1,9 @@
 # 🚀 Advanced Centrifugal Trajectory Launching System for NSLV
 
+![Project Banner](https://github.com/sandesh-ar/Advanced-Centrifugal-Trajectory-Launching-System-for-NSLV/blob/main/poster.png?raw=true)   
+
+
+
 ## 📌 Overview  
 This repository contains the project **"Advanced Centrifugal Trajectory Launching System for NSLV"**, developed as part of the **II Semester BE Mini-Project (Course Code: 22IDT28)** at **Visvesvaraya Technological University (VTU), Karnataka**. The project aims to revolutionize **nano-satellite launch vehicles (NSLVs)** using a **centrifuge-assisted rocket launch system** to significantly **reduce launch costs and fuel consumption**.  
 
@@ -86,6 +90,3 @@ This repository contains the project **"Advanced Centrifugal Trajectory Launchin
 ## 🏆 Awards & Recognition  
 🏅 **Winners** of **First-Year Mini-Project Exhibition 2023** (Dept. of ECE, DSCE)  
 🥈 **Runners-up** in **Scintillating Ideas Project Model Exhibition 2023** (Dept. of Applied Physics, DSCE)  
-
-
-![image](https://github.com/sandesh-ar/Advanced-Centrifugal-Trajectory-Launching-System-for-NSLV/blob/main/poster.png?raw=true)
